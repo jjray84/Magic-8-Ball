@@ -63,12 +63,11 @@ button:active {
 }
 
 #response {
-    width: 70px;
-    color: black;
-    border-radius: 50%;
-    text-align: center;
-    font-size: 120px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
 }
+  
 
 .whiteSpot {
     width: 180px;
@@ -78,4 +77,14 @@ button:active {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#response {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eight {
+    font-size: 120px;
 }

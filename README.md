@@ -1,5 +1,5 @@
 # Magic-8-Ball
-This is a simple Magic 8 Ball.  Yes, just like the one's some of you grew up playing with.  Simply type in your question, and give the Magic 8 Ball a shake.
+This is a simple Magic 8 Ball.  Yes, just like the ones some of you grew up playing with.  Simply type in your question, and give the Magic 8 Ball a shake.
 
 ## Screenshot
 
